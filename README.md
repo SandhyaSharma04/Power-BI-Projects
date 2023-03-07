@@ -1,7 +1,7 @@
 #  Project on Supermarket Data
 
 These are data analysis projects that I've worked on using Excel, Power BI visualization and various statistical analyses. 
-Here is the url:https://github.com/Sandy04Rana/Power-BI-Projects.git
+
 
 # Featured
 
